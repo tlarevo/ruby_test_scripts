@@ -1,0 +1,1 @@
+LGI: HLRSN=1, OPNAME="mtmaccess", PWD="mtmaccess321";
